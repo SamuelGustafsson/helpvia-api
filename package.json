@@ -1,0 +1,19 @@
+{
+  "name": "helpvia-api",
+  "version": "1.0.0",
+  "description": "helpvia-api",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelGustafsson/helpvia-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelGustafsson/helpvia-api/issues"
+  },
+  "homepage": "https://github.com/SamuelGustafsson/helpvia-api#readme"
+}
