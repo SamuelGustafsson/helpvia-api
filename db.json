@@ -3,12 +3,50 @@
     {
       "id": "1",
       "email": "samuel@helpvia.se",
+      "phonenumber": "0736870992",
       "password": "password"
     },
     {
       "id": "2",
       "email": "kevin@helpvia.se",
+      "phonenumber": "0736870992",
       "password": "password"
+    },
+    {
+      "email": "test@mail.com",
+      "password": "password",
+      "phonenumber": "0736870992",
+      "id": "l4fmb4_"
+    },
+    {
+      "email": "test@mail",
+      "password": "",
+      "phonenumber": "0736870992",
+      "id": "UInaDO9"
+    },
+    {
+      "email": "test3@mail.com",
+      "password": "password",
+      "phonenumber": "0736870992",
+      "id": "9mjkWpe"
+    },
+    {
+      "email": "morgan@freeman.se",
+      "password": "password",
+      "phonenumber": "073657898",
+      "id": "uPuMZfG"
+    },
+    {
+      "email": "chuck@mail.com",
+      "password": "password",
+      "phonenumber": "0736870992",
+      "id": "VqFYv2a"
+    },
+    {
+      "email": "zlatan@mail.com",
+      "password": "password",
+      "phonenumber": "0736870992",
+      "id": "10XwkXA"
     }
   ],
   "missions": [
