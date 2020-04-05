@@ -1,4 +1,16 @@
 {
+  "users": [
+    {
+      "id": "1",
+      "email": "samuel@helpvia.se",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "email": "kevin@helpvia.se",
+      "password": "password"
+    }
+  ],
   "missions": [
     {
       "id": "1",
