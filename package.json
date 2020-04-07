@@ -4,7 +4,7 @@
   "description": "helpvia-api",
   "main": "index.js",
   "scripts": {
-    "serve": "npx json-server --watch db.json"
+    "start": "npx json-server --watch db.json"
   },
   "repository": {
     "type": "git",
