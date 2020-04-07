@@ -4,7 +4,8 @@
   "description": "helpvia-api",
   "main": "index.js",
   "scripts": {
-    "start": "npx json-server --watch db.json"
+    "start": "node server.js",
+    "dev": "npx json-server --watch db.json"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SamuelGustafsson/helpvia-api/issues"
   },
-  "homepage": "https://github.com/SamuelGustafsson/helpvia-api#readme"
+  "homepage": "https://github.com/SamuelGustafsson/helpvia-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
